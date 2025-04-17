@@ -9,7 +9,6 @@ A GitHub-Actions-based tool that allows you to easily analyze and visualize GitH
 
 ## How to Use it
 
----
 ### 1. Fork or Clone this repository
 > [!NOTE]
 > This is a public repository, so you can fork it to your own GitHub account.
@@ -88,7 +87,7 @@ def update_readme(theme='chartreuse-dark', owner='mriusero', base_path="./images
     """
     readme_content = INITIAL_README   # Comment this line to remove the initial content
 
-    readme_content += f"""# My Repositories Analytics 👾\n\n![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={owner}&theme={theme})\n"""
+    readme_content += f"""# My Repository Analytics 👾\n\n![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={owner}&theme={theme})\n"""
 
     for repo in sorted(os.listdir(base_path)):
         repo_path = os.path.join(base_path, repo)
