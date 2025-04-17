@@ -5,9 +5,11 @@ INITIAL_README = """
 # GitHub Traffic Insights
 A GitHub-Actions-based tool that allows you to easily analyze and visualize GitHub repository activity over 14 days. It processes data related to visits, clones, referring sites, and popular content, generating insightful graphs and reports to track repository performance.
 
----
+*Contributions are welcome! If you want to add new features or fix bugs, feel free to open an issue or a pull request.*
+
 ## How to Use it
 
+---
 ### 1. Fork or Clone this repository
 > [!NOTE]
 > This is a public repository, so you can fork it to your own GitHub account.
@@ -16,6 +18,7 @@ A GitHub-Actions-based tool that allows you to easily analyze and visualize GitH
 The repository will contain the workflow that will be used to collect the data and generate the report.
 The report will be generated in the README file and show you analytics of all the repositories you choose to analyze.
 
+---
 ### 2. Add your GitHub Token in the repository secrets
 The token is used to authenticate the GitHub API requests.
 > [!TIP]
@@ -27,6 +30,7 @@ The token is used to authenticate the GitHub API requests.
 - Click on "New repository secret".
 - Add a new secret with the name `GH_SECRET_TOKEN` and paste your GitHub token as the value.
 
+---
 ### 3. Set up the configuration
 You can configure the `theme` and `repositories` that you want to track by editing the `config.json` file. 
 All themes are available in `themes.json` file, you can choose any of the themes listed there.
@@ -43,11 +47,11 @@ All themes are available in `themes.json` file, you can choose any of the themes
   ]
 }
 ```
-
+---
 ### 4. Configure the workflow (optional)
 The workflow is set to run once a day. 
 > [!TIP]
-> You can change the schedule by editing the `cron` expression in the `.github/workflows/update_traffic_stats.yml` file.  
+> You can change the schedule by editing the `cron` expression in the `.github/workflows/.yml` file.
 > You can also trigger the workflow manually by going to the "Actions" tab in your repository and clicking the "Run workflow" button.
 
 ---
