@@ -1,0 +1,10 @@
+{
+  "script_to_run": "src/main.py",
+  "data_dir": "./data",
+  "images_dir": "./images",
+  "theme": "chartreuse-dark",
+  "owner": "mriusero",
+  "repositories": [
+  "RepoMetricsVisualizer"
+  ]
+}
