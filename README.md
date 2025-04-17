@@ -23,7 +23,7 @@ The token is used to authenticate the GitHub API requests.
 
 ### 3. Set up the configuration
 You can configure the `theme` and `repositories` that you want to track by editing the `config.json` file. 
-All themes are available in `themes.json` file. You can choose any of the themes listed there.
+All themes are available in `themes.json` file, you can choose any of the themes listed there.
 
 ```json
 {
