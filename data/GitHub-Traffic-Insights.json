@@ -483,5 +483,87 @@
         ],
         "forks": 0,
         "stars": 0
+    },
+    {
+        "timestamp": "2025-04-23T22:18:21.019977",
+        "views": {
+            "total": 88,
+            "unique_visitors": 1
+        },
+        "clones": {
+            "total": 74,
+            "unique_cloners": 46
+        },
+        "referring_sites": [
+            {
+                "referrer": "github.com",
+                "count": 19,
+                "uniques": 1
+            }
+        ],
+        "popular_content": [
+            {
+                "path": "/mriusero/GitHub-Traffic-Insights",
+                "title": "mriusero/GitHub-Traffic-Insights: A GitHub-Actions-based tool that allows you...",
+                "count": 21,
+                "uniques": 1
+            },
+            {
+                "path": "/mriusero/GitHub-Traffic-Insights/actions",
+                "title": "Workflow runs · mriusero/GitHub-Traffic-Insights",
+                "count": 13,
+                "uniques": 1
+            },
+            {
+                "path": "/mriusero/GitHub-Traffic-Insights/actions/workflows/update_traffic_stats.yml",
+                "title": "Update Traffic Stats · Workflow runs · mriusero/GitHub-Traffic-Insights",
+                "count": 8,
+                "uniques": 1
+            },
+            {
+                "path": "/mriusero/GitHub-Traffic-Insights/graphs/traffic",
+                "title": "Traffic · mriusero/GitHub-Traffic-Insights",
+                "count": 5,
+                "uniques": 1
+            },
+            {
+                "path": "/mriusero/GitHub-Traffic-Insights/blob/main/README.md",
+                "title": "GitHub-Traffic-Insights/README.md at main · mriusero/GitHub-Traffic-Insights",
+                "count": 4,
+                "uniques": 1
+            },
+            {
+                "path": "/mriusero/RepoMetricsVisualizer",
+                "title": "mriusero/RepoMetricsVisualizer: A GitHub-Actions-based tool that allows you t...",
+                "count": 4,
+                "uniques": 1
+            },
+            {
+                "path": "/mriusero/GitHub-Traffic-Insights/edit/main/README.md",
+                "title": "Editing GitHub-Traffic-Insights/README.md at main · mriusero/GitHub-Traffic-I...",
+                "count": 2,
+                "uniques": 1
+            },
+            {
+                "path": "/mriusero/GitHub-Traffic-Insights/pulse",
+                "title": "Pulse · mriusero/GitHub-Traffic-Insights",
+                "count": 2,
+                "uniques": 1
+            },
+            {
+                "path": "/mriusero/GitHub-Traffic-Insights/releases/new",
+                "title": "New release · mriusero/GitHub-Traffic-Insights",
+                "count": 2,
+                "uniques": 1
+            },
+            {
+                "path": "/mriusero/RepoAnalytics",
+                "title": "mriusero/RepoAnalytics: A GitHub-Actions-based tool that allows you to easily...",
+                "count": 2,
+                "uniques": 1
+            }
+        ],
+        "forks": 0,
+        "stars": 0
     }
 ]
