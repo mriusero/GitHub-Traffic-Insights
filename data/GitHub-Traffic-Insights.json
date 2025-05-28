@@ -2063,5 +2063,57 @@
         ],
         "forks": 0,
         "stars": 0
+    },
+    {
+        "timestamp": "2025-05-28T22:18:16.975523",
+        "views": {
+            "total": 7,
+            "unique_visitors": 1
+        },
+        "clones": {
+            "total": 51,
+            "unique_cloners": 31
+        },
+        "referring_sites": [
+            {
+                "referrer": "github.com",
+                "count": 7,
+                "uniques": 1
+            }
+        ],
+        "popular_content": [
+            {
+                "path": "/mriusero/GitHub-Traffic-Insights",
+                "title": "mriusero/GitHub-Traffic-Insights: A GitHub-Actions-based tool that allows you...",
+                "count": 2,
+                "uniques": 1
+            },
+            {
+                "path": "/mriusero/GitHub-Traffic-Insights/graphs/traffic",
+                "title": "Traffic · mriusero/GitHub-Traffic-Insights",
+                "count": 2,
+                "uniques": 1
+            },
+            {
+                "path": "/mriusero/GitHub-Traffic-Insights/blob/main/README.md",
+                "title": "GitHub-Traffic-Insights/README.md at main · mriusero/GitHub-Traffic-Insights",
+                "count": 1,
+                "uniques": 1
+            },
+            {
+                "path": "/mriusero/GitHub-Traffic-Insights/edit/main/README.md",
+                "title": "Editing GitHub-Traffic-Insights/README.md at main · mriusero/GitHub-Traffic-I...",
+                "count": 1,
+                "uniques": 1
+            },
+            {
+                "path": "/mriusero/GitHub-Traffic-Insights/tree/main",
+                "title": "mriusero/GitHub-Traffic-Insights: A GitHub-Actions-based tool that allows you...",
+                "count": 1,
+                "uniques": 1
+            }
+        ],
+        "forks": 0,
+        "stars": 0
     }
 ]
