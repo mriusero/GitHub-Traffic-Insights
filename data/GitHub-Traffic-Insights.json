@@ -3368,5 +3368,45 @@
         ],
         "forks": 0,
         "stars": 0
+    },
+    {
+        "timestamp": "2025-06-28T22:17:45.840888",
+        "views": {
+            "total": 7,
+            "unique_visitors": 2
+        },
+        "clones": {
+            "total": 42,
+            "unique_cloners": 27
+        },
+        "referring_sites": [
+            {
+                "referrer": "github.com",
+                "count": 5,
+                "uniques": 2
+            }
+        ],
+        "popular_content": [
+            {
+                "path": "/mriusero/GitHub-Traffic-Insights",
+                "title": "mriusero/GitHub-Traffic-Insights: A GitHub-Actions-based tool that allows you...",
+                "count": 3,
+                "uniques": 2
+            },
+            {
+                "path": "/mriusero/GitHub-Traffic-Insights/graphs/traffic",
+                "title": "Traffic · mriusero/GitHub-Traffic-Insights",
+                "count": 2,
+                "uniques": 1
+            },
+            {
+                "path": "/mriusero/GitHub-Traffic-Insights/pulse",
+                "title": "Pulse · mriusero/GitHub-Traffic-Insights",
+                "count": 2,
+                "uniques": 1
+            }
+        ],
+        "forks": 0,
+        "stars": 0
     }
 ]
