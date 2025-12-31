@@ -6737,5 +6737,75 @@
         ],
         "forks": 0,
         "stars": 0
+    },
+    {
+        "timestamp": "2025-12-31T22:20:47.094781",
+        "views": {
+            "total": 11,
+            "unique_visitors": 4
+        },
+        "clones": {
+            "total": 107,
+            "unique_cloners": 63
+        },
+        "referring_sites": [
+            {
+                "referrer": "Bing",
+                "count": 8,
+                "uniques": 1
+            }
+        ],
+        "popular_content": [
+            {
+                "path": "/mriusero/GitHub-Traffic-Insights",
+                "title": "GitHub - mriusero/GitHub-Traffic-Insights: A GitHub-Actions-based tool that a...",
+                "count": 4,
+                "uniques": 4
+            },
+            {
+                "path": "/mriusero/GitHub-Traffic-Insights/blob/main/data/RepoMetricsVisualizer.json",
+                "title": "GitHub-Traffic-Insights/data/RepoMetricsVisualizer.json at main · mriusero/Gi...",
+                "count": 1,
+                "uniques": 1
+            },
+            {
+                "path": "/mriusero/GitHub-Traffic-Insights/blob/main/images/GitHub-Traffic-Insights/clones_graph.png",
+                "title": "GitHub-Traffic-Insights/images/GitHub-Traffic-Insights/clones_graph.png at ma...",
+                "count": 1,
+                "uniques": 1
+            },
+            {
+                "path": "/mriusero/GitHub-Traffic-Insights/blob/main/images/GitHub-Traffic-Insights/visitors_graph.png",
+                "title": "GitHub-Traffic-Insights/images/GitHub-Traffic-Insights/visitors_graph.png at ...",
+                "count": 1,
+                "uniques": 1
+            },
+            {
+                "path": "/mriusero/GitHub-Traffic-Insights/blob/main/images/RepoMetricsVisualizer/clones_graph.png",
+                "title": "GitHub-Traffic-Insights/images/RepoMetricsVisualizer/clones_graph.png at main...",
+                "count": 1,
+                "uniques": 1
+            },
+            {
+                "path": "/mriusero/GitHub-Traffic-Insights/tree/main/images",
+                "title": "GitHub-Traffic-Insights/images at main · mriusero/GitHub-Traffic-Insights · G...",
+                "count": 1,
+                "uniques": 1
+            },
+            {
+                "path": "/mriusero/GitHub-Traffic-Insights/tree/main/images/GitHub-Traffic-Insights",
+                "title": "GitHub-Traffic-Insights/images/GitHub-Traffic-Insights at main · mriusero/Git...",
+                "count": 1,
+                "uniques": 1
+            },
+            {
+                "path": "/mriusero/GitHub-Traffic-Insights/tree/main/images/RepoMetricsVisualizer",
+                "title": "GitHub-Traffic-Insights/images/RepoMetricsVisualizer at main · mriusero/GitHu...",
+                "count": 1,
+                "uniques": 1
+            }
+        ],
+        "forks": 0,
+        "stars": 0
     }
 ]
