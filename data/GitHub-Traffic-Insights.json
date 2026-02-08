@@ -8449,5 +8449,50 @@
         ],
         "forks": 0,
         "stars": 0
+    },
+    {
+        "timestamp": "2026-02-08T22:28:16.404122",
+        "views": {
+            "total": 7,
+            "unique_visitors": 5
+        },
+        "clones": {
+            "total": 108,
+            "unique_cloners": 62
+        },
+        "referring_sites": [
+            {
+                "referrer": "Bing",
+                "count": 3,
+                "uniques": 1
+            },
+            {
+                "referrer": "DuckDuckGo",
+                "count": 2,
+                "uniques": 2
+            }
+        ],
+        "popular_content": [
+            {
+                "path": "/mriusero/GitHub-Traffic-Insights",
+                "title": "GitHub - mriusero/GitHub-Traffic-Insights: A GitHub-Actions-based tool that a...",
+                "count": 5,
+                "uniques": 5
+            },
+            {
+                "path": "/mriusero/GitHub-Traffic-Insights/blob/main/src/fetch_traffic.py",
+                "title": "mriusero/GitHub-Traffic-Insights: A GitHub-Actions-based tool that allows you...",
+                "count": 1,
+                "uniques": 1
+            },
+            {
+                "path": "/mriusero/GitHub-Traffic-Insights/tree/main/src",
+                "title": "GitHub-Traffic-Insights/src at main · mriusero/GitHub-Traffic-Insights",
+                "count": 1,
+                "uniques": 1
+            }
+        ],
+        "forks": 0,
+        "stars": 0
     }
 ]
